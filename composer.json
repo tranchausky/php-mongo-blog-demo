@@ -1,0 +1,11 @@
+{
+    "name": "root/php-mongodb-master",
+    "autoload": {
+        "psr-4": {
+            "Root\\PhpMongodbMaster\\": "src/"
+        }
+    },
+    "require": {
+        "mongodb/mongodb": "^1.11"
+    }
+}
