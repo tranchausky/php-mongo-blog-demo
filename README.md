@@ -11,3 +11,6 @@ Update by chau
 - config.php  
 - more doc https://docs.mongodb.com/php-library/current/tutorial/crud/#find-many-documents  
 - view demo in /picture-demo    
+
+
+![alt text](picture-demo/mg-blog-view.png)
